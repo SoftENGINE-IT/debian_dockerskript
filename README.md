@@ -14,4 +14,4 @@ Dieses Skript installiert Docker und Docker-Compose auf einem Debian 12 System. 
 
 ```bash
 chmod +x debian12_docker_install.sh
-debian12_docker_install.sh
+./debian12_docker_install.sh
